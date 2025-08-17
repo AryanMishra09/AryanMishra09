@@ -94,26 +94,26 @@ I am a **Backend Engineer & AI enthusiast**, currently building **scalable healt
 <table>
 <tr>
 <td width="50%">
-  <h3 align="center">Verbi</h3>
   <a href="https://verbi-tau.vercel.app/">
-    <p>Language learning platform built with Next.js 14, DrizzleORM, PostgreSQL, AI voices, Shadcn UI, and Stripe integration.</p>
+    <h3 align="center">Verbi</h3>
   </a>
+  <p>Language learning platform built with Next.js 14, DrizzleORM, PostgreSQL, AI voices, Shadcn UI, and Stripe integration.</p>
   
 </td>
 <td width="50%">
-  <h3 align="center">Quatrix</h3>
   <a href="https://quatrix.vercel.app/">
-    <p>Automation SaaS integrating Google Drive, Notion, Slack, Discord for seamless workflows.</p>
+    <h3 align="center">Quatrix</h3>
   </a>
+  <p>Automation SaaS integrating Google Drive, Notion, Slack, Discord for seamless workflows.</p>
   
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <h3 align="center">Cologram</h3>
   <a href="https://cologram.onrender.com/">
-    <p>MERN stack platform for real-time academic, exam, and club updates.</p>
+    <h3 align="center">Cologram</h3>
   </a>
+  <p>MERN stack platform for real-time academic, exam, and club updates.</p>
   
 </td>
 </tr>
