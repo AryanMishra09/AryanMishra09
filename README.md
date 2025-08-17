@@ -65,11 +65,14 @@
 
 ### 🚀 Projects
 
-[![Verbi](https://img.shields.io/badge/Verbi-Next.js14-blue?style=for-the-badge)](https://verbi-tau.vercel.app/) – Language learning platform built with **Next.js 14, DrizzleORM, PostgreSQL**, featuring AI-powered voices, gamified learning, Shadcn UI, and **Stripe integration**.  
+[![Verbi](https://img.shields.io/badge/Verbi-Next.js14-blue?style=for-the-badge)](https://verbi-tau.vercel.app/) 
+– Language learning platform built with **Next.js 14, DrizzleORM, PostgreSQL**, featuring AI-powered voices, gamified learning, Shadcn UI, and **Stripe integration**.  
 
-[![Quatrix](https://img.shields.io/badge/Quatrix-SaaS-green?style=for-the-badge)](https://quatrix.vercel.app/) – Automation SaaS integrating **Google Drive, Notion, Slack, and Discord**, enabling seamless cross-platform workflows.  
+[![Quatrix](https://img.shields.io/badge/Quatrix-SaaS-green?style=for-the-badge)](https://quatrix.vercel.app/) 
+– Automation SaaS integrating **Google Drive, Notion, Slack, and Discord**, enabling seamless cross-platform workflows.  
 
-[![Cologram](https://img.shields.io/badge/Cologram-MERN-orange?style=for-the-badge)](https://cologram.onrender.com/) – MERN stack platform providing **real-time academic, exam, and club updates**, improving information flow and educational experience.  
+[![Cologram](https://img.shields.io/badge/Cologram-MERN-orange?style=for-the-badge)](https://cologram.onrender.com/) 
+– MERN stack platform providing **real-time academic, exam, and club updates**, improving information flow and educational experience.  
 
 ---
 
