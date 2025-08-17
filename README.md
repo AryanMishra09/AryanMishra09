@@ -75,15 +75,12 @@
 
 ### 📊 GitHub Stats & Activity
 
-<div align="center">
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanMishra09&show_icons=true&theme=radical&count_private=true&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMishra09&layout=compact&theme=radical&hide_border=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanMishra09&theme=radical)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AryanMishra09&theme=radical)  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AryanMishra09&theme=radical&margin-w=10)](https://github.com/AryanMishra09)
 
-</div>
 
 
 ---
