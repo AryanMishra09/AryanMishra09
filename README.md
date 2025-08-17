@@ -81,10 +81,10 @@ I am a **Backend Engineer & AI enthusiast**, currently building **scalable healt
 - **SDE Intern, AutoText** | 05/2024 – 08/2024 | Remote  
   ➡️ Integrated payment gateways; improved checkout reliability  
   ➡️ Enhanced authentication flow for security  
-  ➡️ Developed UI components for smooth user experience  
+  ➡️ Developed UI components for a smooth user experience  
 
 - **Software Engineering Intern, Engineering Innovations Research Lab Pvt Ltd** | 01/2024 – 05/2024 | Remote  
-  ➡️ Developed APIs for registration, scheduling, payments  
+  ➡️ Developed APIs for registration, scheduling, and payments  
   ➡️ Built authentication & RBAC for role-specific access  
 
 <br>
@@ -96,25 +96,25 @@ I am a **Backend Engineer & AI enthusiast**, currently building **scalable healt
 <td width="50%">
   <h3 align="center">Verbi</h3>
   <a href="https://verbi-tau.vercel.app/">
-    <img src="https://raw.githubusercontent.com/AryanMishra09/Verbi/main/verbi-screenshot.png" width="100%">
+    <p>Language learning platform built with Next.js 14, DrizzleORM, PostgreSQL, AI voices, Shadcn UI, and Stripe integration.</p>
   </a>
-  <p>Language learning platform built with Next.js 14, DrizzleORM, PostgreSQL, AI voices, Shadcn UI, and Stripe integration.</p>
+  
 </td>
 <td width="50%">
   <h3 align="center">Quatrix</h3>
   <a href="https://quatrix.vercel.app/">
-    <img src="https://raw.githubusercontent.com/AryanMishra09/Quatrix/main/quatrix-screenshot.png" width="100%">
+    <p>Automation SaaS integrating Google Drive, Notion, Slack, Discord for seamless workflows.</p>
   </a>
-  <p>Automation SaaS integrating Google Drive, Notion, Slack, Discord for seamless workflows.</p>
+  
 </td>
 </tr>
 <tr>
 <td width="50%">
   <h3 align="center">Cologram</h3>
   <a href="https://cologram.onrender.com/">
-    <img src="https://raw.githubusercontent.com/AryanMishra09/Cologram/main/cologram-screenshot.png" width="100%">
+    <p>MERN stack platform for real-time academic, exam, and club updates.</p>
   </a>
-  <p>MERN stack platform for real-time academic, exam, and club updates.</p>
+  
 </td>
 </tr>
 </table>
