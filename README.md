@@ -1,91 +1,151 @@
-# Hi 👋, I'm Aryan Mishra
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-**Backend Engineer | Health-tech & AI Enthusiast | Full Stack Developer**
+<h1><b>Hi there, I'm </b><a href="https://github.com/AryanMishra09">Aryan Mishra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
 
----
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;***About me***
 
-🌱 I’m currently building **scalable health-tech platforms** and **AI-powered pipelines** for radiology and clinic management.  
-💻 Explore my projects at [my portfolio](https://aryanmishra.vercel.app/)  
-⚡ Expertise: Node.js, TypeScript, Go, Python, AI/ML integration, Microservices, Distributed Systems, Backend Architecture  
-📫 Reach me at: **mishraaryan9204@gmail.com** | +91 9302623817  
+<img align="right" width=200px alt="Tech Gif" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
----
+I am a **Backend Engineer & AI enthusiast**, currently building **scalable health-tech platforms** and **AI-powered pipelines**. I have experience developing secure, performant backend systems, integrating AI/ML pipelines, and managing cloud-native deployments. I enjoy solving complex problems and building tools that make a difference.
 
-### 👨‍💻 Experience
+- 📚 I’m currently exploring **advanced AI integration, distributed systems, and Go**  
+- 🚀 I’m eager to work on **challenging backend projects** and open-source contributions  
+- ✔ Feel free to ask me anything about **backend architecture, DevOps, or AI pipelines**  
+- Outside tech, I enjoy 🎮 gaming, 🎵 music, and learning new technologies  
+- 📫 Reach out at: <a href="mailto:mishraaryan9204@gmail.com">mishraaryan9204@gmail.com</a> | +91 9302623817  
 
-**SDE-1, Medecro** | 08/2025 – Present | Noida  
-➡️ Sole backend owner for the company’s **health-tech suite** (CMS, PMS, EHR, AI Radiology), responsible for architecture, development & delivery  
-➡️ Scaled backend to support **3× more concurrent users** without performance loss  
-➡️ Launched key modules like **real-time appointment scheduling** and **secure medical file sharing**  
-➡️ Architected a **distributed AI inference pipeline** for radiology, reducing scan processing time by **40%**  
-➡️ Led **DevOps improvements**: automated rollbacks, blue-green deployments, monitoring with **Prometheus & Grafana**
+<br>
 
-**SDE Intern, Medecro** | 08/2024 – 07/2025 | Noida  
-➡️ Built the backend **from scratch**, handling system design, API development, and infrastructure setup  
-➡️ Developed **REST APIs** powering web, mobile, and admin platforms; integrated **AI/ML models** into production  
-➡️ Implemented secure authentication using **ORY Kratos/Keto** and managed deployments with **Docker, Kubernetes & Helm**
+<!-- Profile Trophies -->
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=AryanMishra09&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>     
 
-**SDE Intern, AutoText** | 05/2024 – 08/2024 | Remote  
-➡️ Integrated **payment gateways** for secure, real-time transactions  
-➡️ Enhanced authentication flow, reducing login failures and improving security  
-➡️ Developed multiple **UI components** ensuring smooth user experience
+<!-- Social Links -->
+<div align="center">
+  <a href="mailto:mishraaryan9204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/aryanmishra09/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://github.com/AryanMishra09"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://aryanmishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
 
-**Software Engineering Intern, Engineering Innovations Research Lab Pvt Ltd** | 01/2024 – 05/2024 | Remote  
-➡️ Developed APIs for **user registration, scheduling, and payments**; optimized **MongoDB queries**  
-➡️ Built **authentication & RBAC** for role-specific access control
+<br>
 
----
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💡 Skills & Tools
+###### Backend & Programming:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
-**Backend & Programming:** Node.js, TypeScript, Python, Go, REST APIs, GraphQL, Microservices, ORY Kratos/Keto, JWT, RBAC  
-**Databases & Storage:** PostgreSQL, MongoDB, NeonDB, Redis, Prisma, Query Optimization, Caching  
-**DevOps & Cloud:** Docker, Kubernetes, Helm, CI/CD, GitHub Actions, Jenkins, Prometheus, Grafana, Linux, Bash  
-**AI/ML Integration:** Deep Learning, CNN, AI Model Deployment, Python ML Pipelines  
-**Tools & Others:** Git, GitHub, Postman, Swagger  
+###### Databases & Storage:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 
----
+###### DevOps & Cloud:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Helm](https://img.shields.io/badge/Helm-0F172A?style=for-the-badge&logo=helm&logoColor=white)&nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 
-### 🎓 Education
+###### Tools & Others:
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
 
-**B.Tech, Madhav Institute of Technology and Science** | 2021 – 2025 | Gwalior  
-➡️ CGPA: 8.57  
+<br>
+<br>
 
-**Higher Secondary, Jawahar Navodaya Vidyalaya** | 2019 – 2020 | Umaria  
-➡️ Percentage: 98.4%  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Experience***
 
----
+- **SDE-1, Medecro** | 08/2025 – Present | Noida  
+  ➡️ Sole backend owner for health-tech suite (CMS, PMS, EHR, AI Radiology)  
+  ➡️ Scaled backend to 3× users; launched real-time appointment scheduling & secure file sharing  
+  ➡️ Architected distributed AI inference pipeline, reducing scan processing time by 40%  
+  ➡️ Led DevOps improvements with automated rollbacks, blue-green deployments, Prometheus & Grafana  
 
-### 📜 Certifications
+- **SDE Intern, Medecro** | 08/2024 – 07/2025 | Noida  
+  ➡️ Built backend from scratch; system design, API development, and infrastructure  
+  ➡️ Developed REST APIs for web, mobile, and admin; integrated AI/ML models  
+  ➡️ Implemented authentication using ORY Kratos/Keto; managed deployments with Docker, Kubernetes, Helm  
 
-➡️ Fundamentals of Backend Engineering – Udemy  
-➡️ Full Stack Web Development – Udemy  
+- **SDE Intern, AutoText** | 05/2024 – 08/2024 | Remote  
+  ➡️ Integrated payment gateways; improved checkout reliability  
+  ➡️ Enhanced authentication flow for security  
+  ➡️ Developed UI components for smooth user experience  
 
----
+- **Software Engineering Intern, Engineering Innovations Research Lab Pvt Ltd** | 01/2024 – 05/2024 | Remote  
+  ➡️ Developed APIs for registration, scheduling, payments  
+  ➡️ Built authentication & RBAC for role-specific access  
 
-### 🚀 Projects
+<br>
 
-[![Verbi](https://img.shields.io/badge/Verbi-Next.js14-blue?style=for-the-badge)](https://verbi-tau.vercel.app/) 
-– Language learning platform built with **Next.js 14, DrizzleORM, PostgreSQL**, featuring AI-powered voices, gamified learning, Shadcn UI, and **Stripe integration**.  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Projects***
 
-[![Quatrix](https://img.shields.io/badge/Quatrix-SaaS-green?style=for-the-badge)](https://quatrix.vercel.app/) 
-– Automation SaaS integrating **Google Drive, Notion, Slack, and Discord**, enabling seamless cross-platform workflows.  
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Verbi</h3>
+  <a href="https://verbi-tau.vercel.app/">
+    <img src="https://raw.githubusercontent.com/AryanMishra09/Verbi/main/verbi-screenshot.png" width="100%">
+  </a>
+  <p>Language learning platform built with Next.js 14, DrizzleORM, PostgreSQL, AI voices, Shadcn UI, and Stripe integration.</p>
+</td>
+<td width="50%">
+  <h3 align="center">Quatrix</h3>
+  <a href="https://quatrix.vercel.app/">
+    <img src="https://raw.githubusercontent.com/AryanMishra09/Quatrix/main/quatrix-screenshot.png" width="100%">
+  </a>
+  <p>Automation SaaS integrating Google Drive, Notion, Slack, Discord for seamless workflows.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <h3 align="center">Cologram</h3>
+  <a href="https://cologram.onrender.com/">
+    <img src="https://raw.githubusercontent.com/AryanMishra09/Cologram/main/cologram-screenshot.png" width="100%">
+  </a>
+  <p>MERN stack platform for real-time academic, exam, and club updates.</p>
+</td>
+</tr>
+</table>
 
-[![Cologram](https://img.shields.io/badge/Cologram-MERN-orange?style=for-the-badge)](https://cologram.onrender.com/) 
-– MERN stack platform providing **real-time academic, exam, and club updates**, improving information flow and educational experience.  
+<br>
 
----
+<!-- Github Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
 
-### 📊 GitHub Stats & Activity
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AryanMishra09&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanMishra09&theme=nightowl&hide_border=false" alt="AryanMishra09 streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AryanMishra09&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanMishra09&show_icons=true&theme=radical&count_private=true&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMishra09&layout=compact&theme=radical&hide_border=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanMishra09&theme=radical)  
+<br>
 
----
+<!-- Visitor Counter -->
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/AryanMishra09/count.svg">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
 
-### 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aryanmishra09/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Aryan-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/AryanMishra09)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=vercel&logoColor=white&style=for-the-badge)](https://aryanmishra.vercel.app/)
+<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
