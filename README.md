@@ -12,7 +12,7 @@ I am a **Backend Engineer & AI enthusiast**, currently building **scalable healt
 - 📚 I’m currently exploring **advanced AI integration, distributed systems, and Go**  
 - 🚀 I’m eager to work on **challenging backend projects** and open-source contributions  
 - ✔ Feel free to ask me anything about **backend architecture, DevOps, or AI pipelines**  
-- Outside tech, I enjoy 🎮 gaming, 🎵 music, and learning new technologies  
+- Outside tech, I enjoy 🎵 music and learning new technologies  
 - 📫 Reach out at: <a href="mailto:mishraaryan9204@gmail.com">mishraaryan9204@gmail.com</a> | +91 9302623817  
 
 <br>
@@ -139,13 +139,6 @@ I am a **Backend Engineer & AI enthusiast**, currently building **scalable healt
 </p>
 
 <br>
-
-<!-- Visitor Counter -->
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/AryanMishra09/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
 
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
