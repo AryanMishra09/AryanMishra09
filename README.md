@@ -7,7 +7,7 @@
 
 <img align="right" width=200px alt="Tech Gif" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanmishra09&label=Profile%20views&color=005f99&style=flat-square" alt="aryanmishra" /> </p>
-I am a **Backend Engineer & AI enthusiast**, currently building **scalable health-tech platforms** and **AI-powered pipelines**. I have experience developing secure, performant backend systems, integrating AI/ML pipelines, and managing cloud-native deployments. I enjoy solving complex problems and building tools that make a difference.
+I am a **Software Engineer& AI enthusiast**, with a focus on backend development, currently building **scalable health-tech platforms** and **AI-powered pipelines**. I have experience developing secure, performant backend systems, integrating AI/ML pipelines, and managing cloud-native deployments. I enjoy solving complex problems and building tools that make a difference.
 
 - 📚 I’m currently exploring **advanced AI integration, distributed systems, and Go**  
 - 🚀 I’m eager to work on **challenging backend projects** and open-source contributions  
